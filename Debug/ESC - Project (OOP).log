@@ -1,0 +1,5 @@
+﻿  Functions.cpp
+C:\OOP Labs\OOP Project\ESC - Project (OOP)\ESC - Project (OOP)\Functions.cpp(792,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  ESC - Project (OOP).vcxproj -> C:\OOP Labs\OOP Project\ESC - Project (OOP)\Debug\ESC - Project (OOP).exe
